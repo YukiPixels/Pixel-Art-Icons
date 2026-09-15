@@ -1,15 +1,16 @@
-
 ===========================================================
                   PIXEL ART ICONS PACK
                Created by Yūki (@yukipixels)
 ===========================================================
-Last update: 26/02/2026 (2026-02-26)
+Version: 1.1
+Last update: 2026-09-15 (15 September 2026)
 
 LICENSE INFORMATION
 -------------------
 
-This asset pack is licensed under the Creative Commons 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+The original pixel-art assets in this pack are licensed under
+the Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0).
 https://creativecommons.org/licenses/by-sa/4.0/
 
 --- SUMMARY OF TERMS ---
@@ -17,7 +18,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 1. ATTRIBUTION: 
    You must give appropriate credit.
    Include this in your project's credits or "About" page: 
-   "Pixel Art Icons by YukiPixels"
+   "Pixel Art Icons by YukiPixels (@yukipixels)"
 
 2. SHARE-ALIKE: 
    If you remix, transform, or build upon these icons, 
@@ -27,14 +28,23 @@ https://creativecommons.org/licenses/by-sa/4.0/
 3. COMMERCIAL USE: 
    You are free to use these icons in commercial projects.
 
+4. NO ADDITIONAL RESTRICTIONS:
+   You may not apply legal terms or technological measures
+   that restrict others from doing anything the license permits.
+
 --- DISCLAIMER ---
 
 All trademarks, logos, and brand names included in this pack 
 are the property of their respective owners. Use of these 
 names, trademarks, and brands does not imply endorsement.
 
-The author (YukiPixels) is not responsible for any legal 
-issues arising from the misuse of these assets.
+This license applies to the pixel-art artwork created for this
+pack. It does not grant rights to any third-party trademarks,
+logos, or brand identities represented by the artwork. You are
+responsible for ensuring that your use complies with applicable
+trademark, copyright, and other laws.
+
+The assets are provided "as is", without warranties of any kind.
 
 --- LINKS & SUPPORT ---
 
@@ -42,3 +52,5 @@ Itch.io:  https://yukipixels.itch.io/pixel-art-icons
 Website:  https://yukipixels.itch.io
 Socials:  https://linktr.ee/yukipixels
 Email:    yukipixels@gmail.com
+
+===========================================================
